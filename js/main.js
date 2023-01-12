@@ -785,19 +785,19 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('toggle-menu').addEventListener('click', () => { sidebarFn.open() })
   }
 
+  var date = new Date();
+  var nowMonth = date.getMonth() + 1;
+  var nowDay = date.getDate();
+  y2 = 2023;
+  m2 = nowMonth;
+  d2 = nowDay;
+  y3 = 2023;
+  m3 = 1;
+  d3 = 22;
+  day2 = new Date(y2, m2 - 1, d2);
+  day3 = new Date(y3, m3 - 1, d3);
+  document.getElementById("WhenNewYear").innerHTML = (day3 - day2) / 86400000 + " 天";
+
   refreshFn()
   unRefreshFn()
 })
-
-var date = new Date();
-var nowMonth = date.getMonth() + 1;
-var nowDay = date.getDate();
-y2 = 2023;
-m2 = nowMonth;
-d2 = nowDay;
-y3 = 2023;
-m3 = 1;
-d3 = 22;
-day2 = new Date(y2, m2 - 1, d2);
-day3 = new Date(y3, m3 - 1, d3);
-document.getElementById("WhenNewYear").innerHTML = (day3 - day2) / 86400000 + "天";
