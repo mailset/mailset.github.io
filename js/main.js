@@ -800,4 +800,4 @@ m3 = 1;
 d3 = 22;
 day2 = new Date(y2, m2 - 1, d2);
 day3 = new Date(y3, m3 - 1, d3);
-document.getElementById("WhenNewYear").innerHTML = (day3 - day2) / 86400000;
+document.getElementById("WhenNewYear").innerHTML = (day3 - day2) / 86400000 + "天";
