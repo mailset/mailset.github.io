@@ -785,18 +785,17 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('toggle-menu').addEventListener('click', () => { sidebarFn.open() })
   }
 
+  //计算春节时间
   var date = new Date();
-  var nowMonth = date.getMonth() + 1;
-  var nowDay = date.getDate();
-  y2 = 2023;
-  m2 = nowMonth;
-  d2 = nowDay;
-  y3 = 2023;
-  m3 = 1;
-  d3 = 22;
-  day2 = new Date(y2, m2 - 1, d2);
-  day3 = new Date(y3, m3 - 1, d3);
-  document.getElementById("WhenNewYear").innerHTML = (day3 - day2) / 86400000 + " 天";
+  var nY = date.getFullYear();
+  var nM = date.getMonth() + 1;
+  var nD = date.getDate();
+  var CNYY = 2023
+  var CNYM = 1
+  var CNYD = 22
+  nowDate = new Date(nY, nM - 1, nD);
+  CNYDate = new Date(CNYY, CNYM - 1, CNYD);
+  document.getElementById("WhenNewYear").innerHTML = (CNYDate - nowDate) / 86400000 + " 天";
 
   refreshFn()
   unRefreshFn()
