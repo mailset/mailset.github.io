@@ -1,2 +1,3 @@
 User-agent: *
 Sitemap: http://www.mailset.top/sitemap.xml
+Sitemap: http://www.mailset.top/baidusitemap.xml
