@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mailset.top/music/index.html</loc>
+    
+    <lastmod>2023-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mailset.top/2023/01/13/%E6%9C%80%E8%BF%91%E7%9A%84%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5/</loc>
     
     <lastmod>2023-01-13</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://www.mailset.top/about/index.html</loc>
-    
-    <lastmod>2023-01-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mailset.top/music/index.html</loc>
     
     <lastmod>2023-01-11</lastmod>
     
