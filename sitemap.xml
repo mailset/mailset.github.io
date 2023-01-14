@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mailset.top/Gallery/Cats/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mailset.top/2023/01/14/%E7%B1%BD%E5%B2%B7%E7%BB%88%E4%BA%8E%E7%99%BE%E5%A4%A7%E4%BA%86/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mailset.top/Gallery/Scenery/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mailset.top/Gallery/index.html</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mailset.top/music/index.html</loc>
     
     <lastmod>2023-01-13</lastmod>
@@ -14,24 +50,6 @@
     <loc>https://www.mailset.top/2023/01/13/%E6%9C%80%E8%BF%91%E7%9A%84%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5/</loc>
     
     <lastmod>2023-01-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mailset.top/Gallery/index.html</loc>
-    
-    <lastmod>2023-01-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.mailset.top/Gallery/Cats/index.html</loc>
-    
-    <lastmod>2023-01-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +112,7 @@
 
   <url>
     <loc>https://www.mailset.top/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +120,28 @@
   
   <url>
     <loc>https://www.mailset.top/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mailset.top/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mailset.top/tags/%E9%97%B2%E8%81%8A/</loc>
-    <lastmod>2023-01-13</lastmod>
+    <lastmod>2023-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mailset.top/tags/%E6%84%9F%E6%83%B3/</loc>
+    <lastmod>2023-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
