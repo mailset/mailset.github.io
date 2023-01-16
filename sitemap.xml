@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.mailset.top/2023/01/16/%E5%8E%BB%E6%89%93maimai/</loc>
+    
+    <lastmod>2023-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mailset.top/Gallery/index.html</loc>
     
     <lastmod>2023-01-14</lastmod>
@@ -126,14 +135,21 @@
   </url>
   
   <url>
-    <loc>https://www.mailset.top/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://www.mailset.top/tags/%E9%97%B2%E8%81%8A/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.mailset.top/tags/%E9%97%B2%E8%81%8A/</loc>
+    <loc>https://www.mailset.top/tags/maimai/</loc>
+    <lastmod>2023-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mailset.top/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
